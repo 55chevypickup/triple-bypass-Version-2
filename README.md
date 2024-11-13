@@ -5,7 +5,7 @@ https://github.com/ArtemioUrbina/MDFourier.  Artemio and Bfbii stayed up many la
 # Installation Instructions
 
 Currently I suggest using the Audio installation instructions from the mega amp 2.0
-http://www.sega-16.com/forum/showthread.php?31989-Take-your-Genesis-audio-to-the-next-level-The-Mega-Amp-2-0-is-here!
+https://www.sega-16forums.com/forum/general-discussion/tech-aid/30842-take-your-genesis-audio-to-the-next-level-the-mega-amp-2-0-is-here
 
 For rgb bypass instructions, please see https://www.retrorgb.com/genesistriplebypass.html for now. I will continue working on getting more up-to-date instructions.
 
